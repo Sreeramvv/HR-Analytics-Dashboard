@@ -1,7 +1,5 @@
 # HR-Analytics-Dashboard
 
-# Employee Attrition Analysis
-
 ## Overview
 An exploratory analysis of an HR dataset (1,480 employee records, 38 columns) to understand which factors are associated with employee attrition. Overall attrition in the data is **16.3%** (241 employees).
 
